@@ -1,4 +1,4 @@
-Here's a README.md file for your System Health Monitor GUI project:
+
 
 🖥️ System Health Monitor GUI
 
